@@ -20,5 +20,5 @@ STEPS:
  * "Method is overridden in Extendend class B"
  *
  * Task 5:
- * call this overridden method from obj of class B
+ * call this overridden method  from obj of class B
  */
